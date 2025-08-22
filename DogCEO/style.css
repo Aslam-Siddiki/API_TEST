@@ -1,0 +1,19 @@
+
+p{
+    width: 80%;
+    background-color: azure;
+    color: red;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+button{
+    background-color: green;
+    height: 30px;
+    margin: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
